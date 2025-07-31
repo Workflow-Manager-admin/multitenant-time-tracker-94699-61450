@@ -1,0 +1,4 @@
+{
+    "command": "cd db_visualizer && npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/multitenant-time-tracker-94699-61450/postgresql_database"
+}

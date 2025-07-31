@@ -1,0 +1,25 @@
+============================================================
+DATABASE VALIDATION TEST REPORT
+============================================================
+Generated: 2025-07-31 21:39:44
+Total Tests: 6
+Passed: 4
+Failed: 2
+Skipped: 0
+
+FAILED TESTS:
+----------------------------------------
+✗ Database schema
+  No tables found - schema needs to be created
+✗ File execution
+  'psycopg2.extensions.connection' object has no attribute 'add_notice_processor'
+
+PASSED TESTS:
+----------------------------------------
+✓ Database connectivity
+✓ PostgreSQL version
+✓ Database permissions
+✓ UUID support
+
+OVERALL RESULT: ✗ 2 TEST(S) FAILED
+============================================================
